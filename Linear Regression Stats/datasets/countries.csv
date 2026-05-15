@@ -1,0 +1,276 @@
+name,income_groups,code,world_4region
+Abkhazia,,,europe
+Afghanistan,low_income,AFG,asia
+Akrotiri and Dhekelia,,,europe
+Albania,upper_middle_income,ALB,europe
+Algeria,upper_middle_income,DZA,africa
+American Samoa,upper_middle_income,ASM,asia
+Andorra,high_income,AND,europe
+Angola,upper_middle_income,AGO,africa
+Anguilla,,AIA,americas
+Antarctica,,,europe
+Antigua and Barbuda,high_income,ATG,americas
+Argentina,upper_middle_income,ARG,americas
+Armenia,lower_middle_income,ARM,europe
+Aruba,high_income,ABW,americas
+Australia,high_income,AUS,asia
+Austria,high_income,AUT,europe
+Azerbaijan,upper_middle_income,AZE,europe
+Bahamas,high_income,BHS,americas
+Bahrain,high_income,BHR,asia
+Bangladesh,low_income,BGD,asia
+Barbados,high_income,BRB,americas
+Belarus,upper_middle_income,BLR,europe
+Belgium,high_income,BEL,europe
+Belize,upper_middle_income,BLZ,americas
+Benin,low_income,BEN,africa
+Bermuda,high_income,BMU,americas
+Bhutan,lower_middle_income,BTN,asia
+Bolivia,lower_middle_income,BOL,americas
+Bosnia and Herzegovina,upper_middle_income,BIH,europe
+Botswana,upper_middle_income,BWA,africa
+Bouvet Island,,,africa
+Brazil,upper_middle_income,BRA,americas
+British Indian Ocean Territory,,,asia
+British Virgin Islands,,VGB,americas
+Brunei,high_income,BRN,asia
+Bulgaria,upper_middle_income,BGR,europe
+Burkina Faso,low_income,BFA,africa
+Burundi,low_income,BDI,africa
+Cambodia,low_income,KHM,asia
+Cameroon,lower_middle_income,CMR,africa
+Canada,high_income,CAN,americas
+Cape Verde,lower_middle_income,CPV,africa
+Cayman Islands,high_income,CYM,americas
+Central African Republic,low_income,CAF,africa
+Chad,low_income,TCD,africa
+Channel Islands,high_income,,europe
+Chile,high_income,CHL,americas
+China,upper_middle_income,CHN,asia
+Christmas Island,,CXR,asia
+Clipperton,,,
+Cocos Island,,CCK,asia
+Colombia,upper_middle_income,COL,americas
+Comoros,low_income,COM,africa
+"Congo, Dem. Rep.",low_income,COD,africa
+"Congo, Rep.",lower_middle_income,COG,africa
+Cook Is,,COK,asia
+Costa Rica,upper_middle_income,CRI,americas
+Cote d'Ivoire,lower_middle_income,CIV,africa
+Croatia,high_income,HRV,europe
+Cuba,upper_middle_income,CUB,americas
+Curaçao,high_income,,americas
+Cyprus,high_income,CYP,europe
+Czech Republic,high_income,CZE,europe
+Czechoslovakia,,,europe
+Denmark,high_income,DNK,europe
+Djibouti,lower_middle_income,DJI,africa
+Dominica,upper_middle_income,DMA,americas
+Dominican Republic,upper_middle_income,DOM,americas
+East Germany,,,europe
+Ecuador,upper_middle_income,ECU,americas
+Egypt,lower_middle_income,EGY,africa
+El Salvador,lower_middle_income,SLV,americas
+Equatorial Guinea,high_income,GNQ,africa
+Eritrea,low_income,ERI,africa
+Eritrea and Ethiopia,,,africa
+Estonia,high_income,EST,europe
+Ethiopia,low_income,ETH,africa
+Faeroe Islands,high_income,FRO,europe
+Falkland Is (Malvinas),,FLK,americas
+Fiji,upper_middle_income,FJI,asia
+Finland,high_income,FIN,europe
+France,high_income,FRA,europe
+French Guiana,,GUF,americas
+French Polynesia,high_income,PYF,asia
+French Southern and Antarctic Lands,,,
+Gabon,upper_middle_income,GAB,africa
+Gambia,low_income,GMB,africa
+Gaza Strip,,,asia
+Georgia,lower_middle_income,GEO,europe
+Germany,high_income,DEU,europe
+Ghana,lower_middle_income,GHA,africa
+Gibraltar,,GIB,europe
+Greece,high_income,GRC,europe
+Greenland,high_income,GRL,europe
+Grenada,upper_middle_income,GRD,americas
+Guadeloupe,,GLP,americas
+Guam,high_income,GUM,asia
+Guatemala,lower_middle_income,GTM,americas
+Guernsey,,,europe
+Guinea,low_income,GIN,africa
+Guinea-Bissau,low_income,GNB,africa
+Guyana,lower_middle_income,GUY,americas
+Haiti,low_income,HTI,americas
+Heard and McDonald Islands,,,asia
+Holy See,,,europe
+Honduras,lower_middle_income,HND,americas
+"Hong Kong, China",high_income,HKG,asia
+Hungary,upper_middle_income,HUN,europe
+Iceland,high_income,ISL,europe
+India,lower_middle_income,IND,asia
+Indonesia,lower_middle_income,IDN,asia
+Iran,upper_middle_income,IRN,asia
+Iraq,upper_middle_income,IRQ,asia
+Ireland,high_income,IRL,europe
+Isle of Man,high_income,,europe
+Israel,high_income,ISR,asia
+Italy,high_income,ITA,europe
+Jamaica,upper_middle_income,JAM,americas
+Japan,high_income,JPN,asia
+Jersey,,,europe
+Jordan,upper_middle_income,JOR,asia
+Kazakhstan,upper_middle_income,KAZ,asia
+Kenya,low_income,KEN,africa
+Kiribati,lower_middle_income,KIR,asia
+Kosovo,lower_middle_income,,europe
+Kuwait,high_income,KWT,asia
+Kyrgyz Republic,low_income,KGZ,asia
+Lao,lower_middle_income,LAO,asia
+Latvia,high_income,LVA,europe
+Lebanon,upper_middle_income,LBN,asia
+Lesotho,lower_middle_income,LSO,africa
+Liberia,low_income,LBR,africa
+Libya,upper_middle_income,LBY,africa
+Liechtenstein,high_income,LIE,europe
+Lithuania,high_income,LTU,europe
+Luxembourg,high_income,LUX,europe
+"Macao, China",high_income,MAC,asia
+"Macedonia, FYR",upper_middle_income,MKD,europe
+Madagascar,low_income,MDG,africa
+Malawi,low_income,MWI,africa
+Malaysia,upper_middle_income,MYS,asia
+Maldives,upper_middle_income,MDV,asia
+Mali,low_income,MLI,africa
+Malta,high_income,MLT,europe
+Marshall Islands,upper_middle_income,MHL,asia
+Martinique,,MTQ,americas
+Mauritania,lower_middle_income,MRT,africa
+Mauritius,upper_middle_income,MUS,africa
+Mayotte,,MYT,africa
+Mexico,upper_middle_income,MEX,americas
+"Micronesia, Fed. Sts.",lower_middle_income,FSM,asia
+Moldova,lower_middle_income,MDA,europe
+Monaco,high_income,MCO,europe
+Mongolia,lower_middle_income,MNG,asia
+Montenegro,upper_middle_income,,europe
+Montserrat,,MSR,americas
+Morocco,lower_middle_income,MAR,africa
+Mozambique,low_income,MOZ,africa
+Myanmar,low_income,MMR,asia
+Namibia,upper_middle_income,NAM,africa
+Nauru,,NRU,asia
+Nepal,low_income,NPL,asia
+Netherlands,high_income,NLD,europe
+Netherlands Antilles,,ANT,americas
+New Caledonia,high_income,NCL,asia
+New Zealand,high_income,NZL,asia
+Ngorno-Karabakh,,,europe
+Nicaragua,lower_middle_income,NIC,americas
+Niger,low_income,NER,africa
+Nigeria,lower_middle_income,NGA,africa
+Niue,,NIU,asia
+Norfolk Island,,NFK,asia
+North Korea,low_income,PRK,asia
+North Yemen (former),,,asia
+Northern Cyprus,,,europe
+Northern Mariana Islands,high_income,MNP,asia
+Northern Marianas,,,asia
+Norway,high_income,NOR,europe
+Oman,high_income,OMN,asia
+Pakistan,lower_middle_income,PAK,asia
+Palau,upper_middle_income,PLW,asia
+Panama,upper_middle_income,PAN,americas
+Papua New Guinea,lower_middle_income,PNG,asia
+Paraguay,lower_middle_income,PRY,americas
+Peru,upper_middle_income,PER,americas
+Philippines,lower_middle_income,PHL,asia
+Pitcairn,,PCN,asia
+Poland,high_income,POL,europe
+Portugal,high_income,PRT,europe
+Puerto Rico,high_income,PRI,americas
+Qatar,high_income,QAT,asia
+Reunion,,REU,africa
+Romania,upper_middle_income,ROU,europe
+Russia,high_income,RUS,europe
+Rwanda,low_income,RWA,africa
+Samoa,lower_middle_income,WSM,asia
+San Marino,high_income,SMR,europe
+Sao Tome and Principe,lower_middle_income,STP,africa
+Saudi Arabia,high_income,SAU,asia
+Senegal,lower_middle_income,SEN,africa
+Serbia,upper_middle_income,,europe
+Serbia and Montenegro,,,europe
+Serbia excluding Kosovo,,,europe
+Seychelles,upper_middle_income,SYC,africa
+Sierra Leone,low_income,SLE,africa
+Singapore,high_income,SGP,asia
+Sint Maarten (Dutch part),high_income,,americas
+Slovak Republic,high_income,SVK,europe
+Slovenia,high_income,SVN,europe
+Solomon Islands,lower_middle_income,SLB,asia
+Somalia,low_income,SOM,africa
+Somaliland,,,africa
+South Africa,upper_middle_income,ZAF,africa
+South Georgia and the South Sandwich Islands,,,americas
+South Korea,high_income,KOR,asia
+South Ossetia,,,europe
+South Sudan,low_income,,africa
+South Yemen (former),,,asia
+Spain,high_income,ESP,europe
+Sri Lanka,lower_middle_income,LKA,asia
+St. Barthélemy,,,americas
+St. Helena,,SHN,africa
+St. Kitts and Nevis,high_income,KNA,americas
+St. Lucia,upper_middle_income,LCA,americas
+St. Martin,high_income,,americas
+St. Martin (French part),,,americas
+St. Vincent and the Grenadines,upper_middle_income,VCT,americas
+St.-Pierre-et-Miquelon,,SPM,americas
+Sudan,lower_middle_income,SDN,africa
+Suriname,upper_middle_income,SUR,americas
+Svalbard,,SJM,europe
+Swaziland,lower_middle_income,SWZ,africa
+Sweden,high_income,SWE,europe
+Switzerland,high_income,CHE,europe
+Syria,lower_middle_income,SYR,asia
+Taiwan,,TWN,asia
+Tajikistan,low_income,TJK,asia
+Tanzania,low_income,TZA,africa
+Thailand,upper_middle_income,THA,asia
+Timor-Leste,lower_middle_income,TLS,asia
+Togo,low_income,TGO,africa
+Tokelau,,TKL,asia
+Tonga,upper_middle_income,TON,asia
+Transnistria,,,europe
+Trinidad and Tobago,high_income,TTO,americas
+Tunisia,upper_middle_income,TUN,africa
+Turkey,upper_middle_income,TUR,europe
+Turkmenistan,upper_middle_income,TKM,asia
+Turks and Caicos Islands,high_income,TCA,americas
+Tuvalu,upper_middle_income,TUV,asia
+US Minor Outlying Islands,,,americas
+USSR,,,europe
+Uganda,low_income,UGA,africa
+Ukraine,lower_middle_income,UKR,europe
+United Arab Emirates,high_income,ARE,asia
+United Kingdom,high_income,GBR,europe
+United Korea (former),,,asia
+United States,high_income,USA,americas
+Uruguay,high_income,URY,americas
+Uzbekistan,lower_middle_income,UZB,asia
+Vanuatu,lower_middle_income,VUT,asia
+Venezuela,upper_middle_income,VEN,americas
+Vietnam,lower_middle_income,VNM,asia
+Virgin Islands,,,americas
+Virgin Islands (U.S.),high_income,VIR,americas
+Wallis et Futuna,,WLF,asia
+West Bank,,,asia
+Palestine,lower_middle_income,PSE,asia
+West Germany,,,europe
+Western Sahara,,ESH,africa
+Yemen,lower_middle_income,YEM,asia
+Yugoslavia,,,europe
+Zambia,lower_middle_income,ZMB,africa
+Zimbabwe,low_income,ZWE,africa
+Åland,,ALA,europe
